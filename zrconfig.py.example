@@ -1,0 +1,3 @@
+runtoken = "" # Token for Runalyze (see readme)
+zwiftuser = "" # Email Address for Zwift
+zwiftpwd = "" # Pwd for Zwift
